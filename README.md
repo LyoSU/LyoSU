@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LyoSU&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=LyoSU&show_icons=true&&theme=tokyonight" />
 </p>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/LyoSU/&title=Profile%20Views)
