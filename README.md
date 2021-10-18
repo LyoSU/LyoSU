@@ -5,7 +5,7 @@
 </p>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/LyoSU/&title=Profile%20Views)
-
+[![wakatime](https://wakatime.com/badge/user/c2a604e1-2bcf-47cf-a1ba-6b28e0eb7c57.svg)](https://wakatime.com/@c2a604e1-2bcf-47cf-a1ba-6b28e0eb7c57)
 
 <!--
 **LyoSU/LyoSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
