@@ -35,8 +35,8 @@ I'm a passionate **Web Developer** from Ukraine 🇺🇦 specializing in creatin
 ## 🚀 Featured Projects
 
 ### 🎨 [FStik Catalog](https://fstik.app)
-A comprehensive Telegram sticker catalog application serving **800,000+ users** [1]
-- 📱 **200,000+** Google Play installations with 4.6★ rating [1]
+A comprehensive Telegram sticker catalog application serving **800,000+ users**
+- 📱 **200,000+** Google Play installations with 4.6★ rating
 - 🚀 Fast and convenient way to find and install Telegram sticker sets
 - 💡 Created as Telegram Mini App with modern web technologies
 
