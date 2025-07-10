@@ -34,6 +34,14 @@ I'm a passionate **Web Developer** from Ukraine 🇺🇦 specializing in creatin
 
 ## 🚀 Featured Projects
 
+### 🎨 [FStik Catalog](https://fstik.app)
+A comprehensive Telegram sticker catalog application serving **800,000+ users** [1]
+- 📱 **200,000+** Google Play installations with 4.6★ rating [1]
+- 🚀 Fast and convenient way to find and install Telegram sticker sets
+- 💡 Created as Telegram Mini App with modern web technologies
+
+**Links**: [Telegram Mini App](https://t.me/fstikbot) | [Google Play](https://play.google.com/store/apps/details?id=com.fstik) | [Website](https://fstik.app) | [GitHub](https://github.com/fstik)
+
 ### 📸 [Quote Bot](https://github.com/LyoSU/quote-bot)
 A powerful Telegram bot for creating beautiful quote images from messages. Turn any conversation into shareable, aesthetic quotes with customizable styles and formats.
 
@@ -48,8 +56,9 @@ The backend API powering the Quote Bot ecosystem. Features include:
 
 <div align="center">
   
-  🚀 **10+ Years** in Web Development | 🤖 **7+ Years** Building Telegram Bots  
-  💡 **Open Source** Contributor | 🌍 **Global** User Base  
+  🚀 **10+ Years** in Web Development | 🤖 **7+ Years** Building Telegram Bots
+  👥 **800,000+** Active Users | 📱 **200,000+** App Downloads
+  💡 **Open Source** Contributor | 🌍 **Global** User Base
   
 </div>
 
